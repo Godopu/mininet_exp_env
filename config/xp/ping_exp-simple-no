@@ -1,0 +1,9 @@
+xpType:ping_exp
+kpms:fullmesh
+kpmc:fullmesh
+exp:simple
+pcap:no
+nc:0
+ps:0
+protocol:0
+rmem:300000 300000 300000

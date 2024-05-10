@@ -1,0 +1,9 @@
+clients:8
+servers:5
+leftSubnet:192.168.
+rightSubnet:10.1.
+path_c2r_0:30,1000,50,0
+path_c2r_1:10,1000,50,0
+path_r2s_0:30,1000,300,0
+path_r2s_1:10,1000,300,0
+topoType:MultiInterfaceMultiClients
